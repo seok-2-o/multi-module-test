@@ -1,0 +1,5 @@
+rootProject.name = 'multi-module-test'
+include 'domain'
+include 'application'
+include 'domain-test-helper'
+

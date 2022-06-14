@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/domain/build/
+/domain/out/production/classes/
+/domain/out/test/classes/
+/domain/out/testFixtures/classes/
